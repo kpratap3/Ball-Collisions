@@ -1,2 +1,2 @@
 # Ball-Collisions
-physically accurate simulation of elastic collisions between hard-bodied spheres.
+Physically accurate simulation of elastic collisions between hard-bodied spheres in Processing.
